@@ -1,0 +1,52 @@
+# **Git commands**
+
+- git init
+    
+    **`git init`** is a Git command used to create a new Git repository in an existing or new project directory.
+    
+    **Use:** `git init`
+    
+- git status
+    
+    **`git status`** shows the current state of your files, like which files are changed, staged, or not tracked.
+    
+    **Use:** `git status`
+    
+- git branch
+    
+    **`git stash`** → temporarily saves your uncommitted changes so you can switch branches safely.
+    
+    **Use:** `git stash`
+    
+- git checkout
+    
+    **`git checkout -b (branch name)`** creates a new branch and switches you to it at the same time.
+    
+- git add
+    
+    **`git add`** → moves changed files to the staging area before committing.
+    
+    **Use:** `git add file_name` or `git add .`
+    
+- git commit
+    
+    **`git commit`** → saves your staged changes permanently in the repository.
+    
+    **Use:** `git commit -m "your message"`
+    
+- git switch
+    
+    **`git switch`** → switches to another branch (use `git switch branch_name` or `git switch -c new_branch`).
+    
+- git log
+    
+    **`git log`** → shows the history of all commits in the repository.
+    
+    **Use:** `git log`
+    
+- git stash
+    
+    **`git stash`** → temporarily saves your uncommitted changes so you can switch branches safely.
+    
+    **Use:** `git stash`
+    
